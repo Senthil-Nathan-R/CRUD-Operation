@@ -1,13 +1,21 @@
-# Spring Boot
+# CRUD Operation Project
 
-bookstore folder is springBoot folder, open that folder in any java code edit and download the dependences in pom.xml file.
-now run the program 
+**Spring Boot**
 
-# React js
+The bookstore folder contains the Spring Boot project. To set it up:
 
-Apart from bookstore folder all other files are react js file, open that file in any react js editor
+1.Open the bookstore folder in any Java IDE or code editor.
+2.Download the dependencies specified in the pom.xml file.
+3.Run the Spring Boot application.
+
+**React.js**
+
+All files outside the bookstore folder are part of the React.js project. To set it up:
+
+Open the React files in any React.js editor.
 
 **Installation Process**
+
 1. Navigate to the project directory:
    
    ```bash
